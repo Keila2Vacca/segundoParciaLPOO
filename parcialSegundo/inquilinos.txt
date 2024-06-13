@@ -1,0 +1,6 @@
+Keila,Vacca,GTHJ567,23,Pagó
+Keila,Vacca,GTHJ567,13,No Pagó
+Keila,Vacca,GTHJ567,2,Pagó
+Keila,Vacca,GTHJ567,26,No Pagó
+Keila,Vacca,GTHJ567,29,Pagó
+Keila,Vacca,GTHJ567,46,Pagó
